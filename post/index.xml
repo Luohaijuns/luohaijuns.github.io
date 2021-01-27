@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on �޺����Ĳ���</title>
+    <title>Posts on luohaijun&#39;s blog</title>
     <link>https://luohaijuns.github.io/post/</link>
-    <description>Recent content in Posts on �޺����Ĳ���</description>
+    <description>Recent content in Posts on luohaijun&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>UTF-8</language>
-    <lastBuildDate>Wed, 27 Jan 2021 11:52:10 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <copyright>&amp;copy; 2016.All right reserved.</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 16:48:03 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>数组反转</title>
-      <link>https://luohaijuns.github.io/post/%E6%95%B0%E7%BB%84%E5%8F%8D%E8%BD%AC/</link>
-      <pubDate>Wed, 27 Jan 2021 11:52:10 +0800</pubDate>
+      <title>Blog3</title>
+      <link>https://luohaijuns.github.io/post/blog3/</link>
+      <pubDate>Wed, 27 Jan 2021 16:48:03 +0800</pubDate>
       
-      <guid>https://luohaijuns.github.io/post/%E6%95%B0%E7%BB%84%E5%8F%8D%E8%BD%AC/</guid>
-      <description>##数组反转</description>
+      <guid>https://luohaijuns.github.io/post/blog3/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -22,7 +23,7 @@
       <pubDate>Sat, 02 Jan 2021 12:30:14 +0800</pubDate>
       
       <guid>https://luohaijuns.github.io/post/blog2/</guid>
-      <description>实现思路  利用网易云API获取部分数据 基于标签进行歌单详情页的推荐、歌曲详情页的推荐、歌手详情页的推荐 基于用户的协同过滤算法给用户推荐用户、个用户推荐歌曲 基于物品的协同过滤算法给用户推荐歌手 基于内容的推荐算法给用户推荐歌单 个性化排行榜 为你推荐（不同用户行为不同看到的为你推荐也不同） 我的足迹，展示用户在站内的行为  后端依赖  Python版本为3.6 Python包和对应的版本在MusicRecSys/MusicRec/z-others/files/requirement.txt文件中 安装依赖为 pip install -r requirement.txt  前端说明  依赖Node.js，版本为10.13  运行说明  mysql新建musicrec数据库，将MusicRecSys/MusicRec/z-others/files/musicrec.sql 文件导入 修改 MusicRecSys/MusicRec/MusicRec/settings.py 文件中的ALLOWED_HOSTS为本地IP地址和本地mysql配置信息 修改 MusicRecSys/MusicRec-Vue/config/index.js 中的 serverUrl 修改 MusicRecSys/MusicRec-Vue/src/assets/js/linkBase.js 中的 serverUrl 进入 MusicRecSys/MusicRec 执行python manage.py runserver 0.0.0.0:8000 进入 MusicRecSys/MusicRec-Vue 执行npm install / npm run dev 浏览器输入 http://127.0.0.1:8001 访问  </description>
+      <description>实现思路 利用网易云API获取部分数据 基于标签进行歌单详情页的推荐、歌曲详情页的推荐、歌手详情页的推荐 基于用户的协同过滤算法给用户推荐用户、个</description>
     </item>
     
     <item>
