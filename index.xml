@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2016.All right reserved.</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 17:40:00 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 18:00:36 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test3</title>
+      <link>https://luohaijuns.github.io/post/test3/</link>
+      <pubDate>Wed, 27 Jan 2021 18:00:36 +0800</pubDate>
+      
+      <guid>https://luohaijuns.github.io/post/test3/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Test2</title>
       <link>https://luohaijuns.github.io/post/test2/</link>
