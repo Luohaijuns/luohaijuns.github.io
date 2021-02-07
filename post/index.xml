@@ -7,77 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2021.All right reserved.</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 20:32:23 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 20:24:29 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test5</title>
-      <link>https://luohaijuns.github.io/post/test5/</link>
-      <pubDate>Wed, 27 Jan 2021 20:32:23 +0800</pubDate>
+      <title>字符串的操作</title>
+      <link>https://luohaijuns.github.io/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Mon, 01 Feb 2021 20:24:29 +0800</pubDate>
       
-      <guid>https://luohaijuns.github.io/post/test5/</guid>
+      <guid>https://luohaijuns.github.io/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%93%8D%E4%BD%9C/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Test4</title>
-      <link>https://luohaijuns.github.io/post/test4/</link>
-      <pubDate>Wed, 27 Jan 2021 18:04:43 +0800</pubDate>
-      
-      <guid>https://luohaijuns.github.io/post/test4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test3</title>
-      <link>https://luohaijuns.github.io/post/test3/</link>
-      <pubDate>Wed, 27 Jan 2021 18:00:36 +0800</pubDate>
-      
-      <guid>https://luohaijuns.github.io/post/test3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test2</title>
-      <link>https://luohaijuns.github.io/post/test2/</link>
-      <pubDate>Wed, 27 Jan 2021 17:40:00 +0800</pubDate>
-      
-      <guid>https://luohaijuns.github.io/post/test2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test1</title>
-      <link>https://luohaijuns.github.io/post/test1/</link>
-      <pubDate>Wed, 27 Jan 2021 17:20:25 +0800</pubDate>
-      
-      <guid>https://luohaijuns.github.io/post/test1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog3</title>
-      <link>https://luohaijuns.github.io/post/blog3/</link>
-      <pubDate>Wed, 27 Jan 2021 16:48:03 +0800</pubDate>
-      
-      <guid>https://luohaijuns.github.io/post/blog3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blod2</title>
-      <link>https://luohaijuns.github.io/post/blog2/</link>
-      <pubDate>Sat, 02 Jan 2021 12:30:14 +0800</pubDate>
-      
-      <guid>https://luohaijuns.github.io/post/blog2/</guid>
-      <description>实现思路 利用网易云API获取部分数据 基于标签进行歌单详情页的推荐、歌曲详情页的推荐、歌手详情页的推荐 基于用户的协同过滤算法给用户推荐用户、个</description>
-    </item>
-    
-    <item>
-      <title>我的第一篇blog</title>
-      <link>https://luohaijuns.github.io/post/blog/</link>
-      <pubDate>Fri, 01 Jan 2021 21:38:42 +0800</pubDate>
-      
-      <guid>https://luohaijuns.github.io/post/blog/</guid>
-      <description>我的第一篇blog hello world！</description>
     </item>
     
   </channel>
