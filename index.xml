@@ -7,23 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2021.All right reserved.</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 12:16:42 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 13:09:04 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>字符串的操作（1）</title>
-      <link>https://luohaijuns.github.io/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%93%8D%E4%BD%9C1/</link>
-      <pubDate>Sun, 07 Feb 2021 12:16:42 +0800</pubDate>
+      <title>字符串操作1</title>
+      <link>https://luohaijuns.github.io/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C1/</link>
+      <pubDate>Sun, 07 Feb 2021 13:09:04 +0800</pubDate>
       
-      <guid>https://luohaijuns.github.io/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%93%8D%E4%BD%9C1/</guid>
+      <guid>https://luohaijuns.github.io/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C1/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>字符串的操作</title>
-      <link>https://luohaijuns.github.io/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%93%8D%E4%BD%9C/</link>
-      <pubDate>Mon, 01 Feb 2021 20:24:29 +0800</pubDate>
-      
-      <guid>https://luohaijuns.github.io/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%93%8D%E4%BD%9C/</guid>
-      <description>字符串的操作(1) 字符串的连接 利用concat()方法和“+”连接两个字符串,如下所示： String message1 = &amp;ldquo;String1&amp;rdquo;.concat(&amp;ldquo;String2&amp;rdquo;); String message2 = &amp;ldquo;String1&amp;rdquo; + &amp;ldquo;String2&amp;rdquo;; 字符串的长度 使用String类中</description>
     </item>
     
   </channel>
