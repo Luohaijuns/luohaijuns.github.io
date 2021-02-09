@@ -6,6 +6,16 @@
     <description>Recent content on luohaijun&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>&amp;copy; 2021.All right reserved.</copyright><atom:link href="https://luohaijuns.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2021.All right reserved.</copyright>
+    <lastBuildDate>Tue, 09 Feb 2021 20:22:21 +0800</lastBuildDate><atom:link href="https://luohaijuns.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogtest</title>
+      <link>https://luohaijuns.github.io/post/blogtest/</link>
+      <pubDate>Tue, 09 Feb 2021 20:22:21 +0800</pubDate>
+      
+      <guid>https://luohaijuns.github.io/post/blogtest/</guid>
+      <description>这是一个blog测试 测试成功！</description>
+    </item>
+    
   </channel>
 </rss>
